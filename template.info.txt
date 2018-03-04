@@ -1,0 +1,6 @@
+base     oldkingdom
+author   Flawedspirit
+email    me@flawedspirit.com
+date     2018-03-03
+name     Old Kingdom Template
+desc     Template custom-built for my campaign setting wiki
